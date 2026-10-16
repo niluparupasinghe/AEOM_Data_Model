@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "AEMO_LH1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "05b3421b-7534-bf5e-4c4c-d150343fbc4b"
+  }
+}
