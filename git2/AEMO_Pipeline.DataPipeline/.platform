@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "AEMO_Pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "56d59063-7217-8008-4095-c28d9bed2ba9"
+  }
+}
